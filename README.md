@@ -36,7 +36,18 @@ auth-form/
 
 ## 📸 Preview
 
-The design features a soft dual-tone gradient background (`#f5f7fa` to `#c3cfe2`) with a white card container, elevated by deep shadows and rounded corners.
+<details>
+<summary><b>✨ Click to view Project Screenshots</b></summary>
+
+<br>
+
+### 🔐 Login Page
+![Login Preview](./preview1.png)
+
+### 📝 Signup Page
+![Signup Preview](./preview2.png)
+
+</details>
 
 ---
 
